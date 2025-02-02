@@ -90,8 +90,9 @@ python3 GUI.py
 
 ## Screenshots
  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; text-align: center;">
-     <div style="flex: 1 1 calc(50% - 16px); max-width: calc(50% - 16px);">
+  <div style="flex: 1 1 calc(40% - 16px); max-width: calc(40% - 16px);">
     <h3>AI Assistant Form</h3>
-    <img src="/Image/ai_assistant_page.png" alt="AI Assistant Page" style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
+    <img src="/Image/ai_assistant_page.png" alt="AI Assistant Page" style="width: 80%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
   </div>
- </div>
+</div>
+
