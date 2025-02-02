@@ -71,6 +71,7 @@ To run the AI Desktop Virtual Assistant, simply execute the following command:
 
 ```bash
 python3 GUI.py
+```
 
 ## Features
 
