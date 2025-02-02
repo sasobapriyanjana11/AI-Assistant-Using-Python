@@ -28,7 +28,9 @@ text.grid(row = 2,  column= 0)
 text.place(x= 100, y= 375, width= 375, height= 100) 
 
 
-
+#Add Entry widget
+entry1=Entry(root,justify="center")
+entry1.place(x=100,y=500,width=370,height=30)
 
 
 #popup frame
