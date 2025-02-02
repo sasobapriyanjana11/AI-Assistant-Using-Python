@@ -1,6 +1,6 @@
 # AI Desktop Virtual Assistant
 
-🚀 Dive into the world of artificial intelligence with this Python project tutorial! In this guide, we show you how to create your very own AI Desktop Virtual Assistant using Python and Tkinter. Whether you're a beginner or an experienced developer, this hands-on tutorial is designed to enhance your coding skills and introduce you to the exciting realm of AI applications.
+🚀 Dive into the world of artificial intelligence with this Python project! I developed an AI Desktop Virtual Assistant using Python and Tkinter. This project demonstrates how to create a smart assistant that responds to voice commands, performs tasks, and integrates a user-friendly graphical interface.
 
 ## Table of Contents
 
