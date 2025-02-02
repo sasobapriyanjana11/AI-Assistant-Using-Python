@@ -9,16 +9,17 @@ def User_send():
     text.insert(END, "Me --> " + send + "\n", "user")
     if bot is not None:
         text.insert(END, "Bot <-- " + str(bot) + "\n", "bot")
-    if bot == "ok sir":
+    if bot == "ok...":
         root.destroy()  
 
 def ask():
     ask_val = spech_to_text.spech_to_text()
+    print(f"Recognized Text: {ask_val}")
     bot_val = action.Action(ask_val)
     text.insert(END, "Me --> " + ask_val + "\n", "user")
     if bot_val is not None:
         text.insert(END, "Bot <-- " + str(bot_val) + "\n", "bot")
-    if bot_val == "ok sir":
+    if bot_val == "ok...":
         root.destroy()
 
 
