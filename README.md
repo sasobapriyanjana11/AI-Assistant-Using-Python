@@ -1,27 +1,22 @@
 # AI Desktop Virtual Assistant
+🚀 Dive into the world of artificial intelligence with this Python project! I developed  a smart desktop assistant that responds to voice commands and performs tasks with ease. This project demonstrates how to create a smart assistant that responds to voice commands, performs tasks,text-to-speech and integrates a user-friendly graphical interface.
 
-🚀 Dive into the world of artificial intelligence with this Python project! I developed an AI Desktop Virtual Assistant using Python and Tkinter. This project demonstrates how to create a smart assistant that responds to voice commands, performs tasks, and integrates a user-friendly graphical interface.
+In this project:
+- Learn how to create a GUI using Tkinter.
+- Integrate voice recognition to interpret user commands.
+- Use pyttsx3 for text-to-speech functionality.
+- Build a desktop assistant capable of performing simple tasks like opening applications, fetching weather information, and more.
 
 ## Table of Contents
 
 - [AI Desktop Virtual Assistant](#ai-desktop-virtual-assistant)
   - [Table of Contents](#table-of-contents)
-  - [Project Description](#project-description)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
   - [Screenshots](#screenshots)
 
-## Project Description
-
-This project teaches you how to build a smart desktop assistant that responds to voice commands and performs tasks with ease. We use Python and Tkinter to create a user-friendly graphical interface and integrate powerful AI capabilities like voice recognition, text-to-speech, and task automation.
-
-In this tutorial, you will:
-- Learn how to create a GUI using Tkinter.
-- Integrate voice recognition to interpret user commands.
-- Use pyttsx3 for text-to-speech functionality.
-- Build a desktop assistant capable of performing simple tasks like opening applications, fetching weather information, and more.
 
 ## Installation
 
